@@ -10,7 +10,7 @@ st.write("Enter a city name and generate a beautiful map!")
 
 city = st.text_input("City name", placeholder="e.g. Rabat, Morocco")
 
-# Optional: Add a selectbox for map styles
+#Add a selectbox for map styles
 style_options = list(STYLES.keys())
 selected_style = st.selectbox(
     "Select Map Style",
