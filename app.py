@@ -56,3 +56,5 @@ if st.button("Generate Map"):
                 st.info("Please try a different city name or ensure it's a valid location.")
     else:
         st.error("Please enter a city name.")
+
+        #Sag mir, was du brauchst!
