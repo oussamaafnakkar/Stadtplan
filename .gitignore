@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# Streamlit cache and temporary files
+cache/
+.streamlit/
+
+# Other common temporary files
+*.log
+*.tmp
+*.swp
+
